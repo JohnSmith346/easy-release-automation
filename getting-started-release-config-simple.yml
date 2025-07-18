@@ -8,7 +8,7 @@ repositories: # ERA will release all defined repos in here
     version: &easy_release_automation_version "0.2.0" # ERA will tag this repo on 0.1.0 
     url: git@github.com:JohnSmith346/easy-release-automation.git # url to repo
     stable_branch: stable
-    main_branch: test_era
+    main_branch: test-era
     plugins:
       # The flexibility of ERA comes from providing a plugin mechanism, where the developer can specify
       # which plugins are executed to modify and validate the repository.
