@@ -15,6 +15,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Fixed
 
+## [0.2.0] - 2025-07-18
+
+### Known Errors
+
+### Added
+
+### Changed
+
+### Removed
+
+### Fixed
+
 - Use pinned image version ubuntu-22.04 otherwise latest version is used which leads to
   errors.
 - #24: Invalid log call in main in case of unexpected exception.
