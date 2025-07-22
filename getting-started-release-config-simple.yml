@@ -9,6 +9,7 @@ repositories: # ERA will release all defined repos in here
     url: git@github.com:JohnSmith346/easy-release-automation.git # url to repo
     stable_branch: stable
     main_branch: test-era
+    tag_message: "my fancy tag message"
     plugins:
       # The flexibility of ERA comes from providing a plugin mechanism, where the developer can specify
       # which plugins are executed to modify and validate the repository.
