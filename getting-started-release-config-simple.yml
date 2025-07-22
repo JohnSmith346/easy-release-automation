@@ -5,7 +5,7 @@ global_config:
   tag_policy: "skip"
 repositories: # ERA will release all defined repos in here
   easy-release-automation: # repo name
-    version: &easy_release_automation_version "0.3.0" # ERA will tag this repo on 0.1.0 
+    version: &easy_release_automation_version "0.4.0" # ERA will tag this repo on 0.1.0 
     url: git@github.com:JohnSmith346/easy-release-automation.git # url to repo
     stable_branch: stable
     main_branch: test-era
